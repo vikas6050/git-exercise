@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 Peppermint ice cream 
 Soft breadsouce
+<<<<<<< HEAD
 =======
 Amadeus 
 fifth element
 Captain fantastic
 Added one more movie
 >>>>>>> movies
+=======
+Added line in foods branch
+>>>>>>> foods
